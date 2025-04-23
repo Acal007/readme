@@ -26,7 +26,7 @@ $ whoami
 🗃️ 数据库与中间件
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,sqlserver,nginx,nodejs,npm,redis" />
+    <img src="https://skillicons.dev/icons?i=oracle,mysql,nginx,nodejs,npm,redis" />
   </a>
 </p>
 
