@@ -12,21 +12,21 @@ $ whoami
 ☁️ 云平台与操作系统
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,vim,windows,UOS" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,ubuntu,vim,windows,github,gitlab,redhat" />
   </a>
 </p>
 
 ⚡ 自动化与监控
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,ansible,promethus,granfana" />
+    <img src="https://skillicons.dev/icons?i=jenkins,ansible,prometheus,grafana,elasticsearch,pycharm," />
   </a>
 </p>
 
 🗃️ 数据库与中间件
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,sqlserver,dm" />
+    <img src="https://skillicons.dev/icons?i=oracle,mysql,sqlserver,nginx,nodejs,npm,redis" />
   </a>
 </p>
 
@@ -51,6 +51,7 @@ $ whoami
 📊 《Prometheus+Grafana监控体系设计指南》
 💡 《传统中间件在信创环境下的调优实践》
 📊 我的数据名片
+
 技能热度图
 
 GitHub数据
